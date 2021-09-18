@@ -32,8 +32,8 @@
     "koa-router": "^10.0.0"
   },
   "peerDependencies": {
-    "@nestjs/common": ">=6.x <=7.x",
-    "@nestjs/core": ">= 6.x <=7.x"
+    "@nestjs/common": ">=6.x <=8.x",
+    "@nestjs/core": ">= 6.x <=8.x"
   },
   "optionalDependencies": {
     "@koa/cors": "^3.0.0",
